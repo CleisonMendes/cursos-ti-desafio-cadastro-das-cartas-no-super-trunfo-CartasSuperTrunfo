@@ -52,7 +52,6 @@ int main() {
         printf("Resultado: Empate!\n");
     }
 
-    
 
     return 0;
 }
